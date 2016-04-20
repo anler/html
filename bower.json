@@ -1,0 +1,21 @@
+{
+  "name": "html",
+  "main": "html.js",
+  "homepage": "https://github.com/anler/html",
+  "authors": [
+    "Anler Hernandez Peral <anler@anler.me>"
+  ],
+  "description": "Simple JavaScript DSL for writing html.",
+  "keywords": [
+    "dsl",
+    "html"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
